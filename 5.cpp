@@ -8,3 +8,5 @@ int main()
 	printf("%s\n",p);
 	return 0;
 }
+
+// wyz: hello,world

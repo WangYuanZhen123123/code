@@ -19,3 +19,4 @@ int main()
 // master branch
 // git diff
 // no \n
+// no newline

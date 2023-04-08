@@ -18,3 +18,4 @@ int main()
 // V8
 // master branch
 // git diff
+// no \n
